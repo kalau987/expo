@@ -1,8 +1,0 @@
-{
-  "typescript.tsdk": "node_modules/typescript/lib",
-  "eslint.workingDirectories": [{ "pattern": "*" }],
-  "search.exclude": {
-    "packages/**/build": true,
-    "docs/public/static/data": true
-  }
-}
